@@ -1,0 +1,8 @@
+Contents:
+Machine learning models with user input for predicting
+Computer vision examples with live demos
+Resume pdf
+Contact links
+Bio
+Blog?
+Links to other projects?
